@@ -1,6 +1,6 @@
-Command	Meaning
-pwd     Show your current directory
-ls	    List files and directories in your current directory
+**Day01 Commands**
+pwd   Show your current directory
+ls	  List files and directories in your current directory
 ls -l	List files and directories with detailed information
 ls -a	Show you all files, including hidden files 
 ls -la	Show you all files and directory with detailed information
