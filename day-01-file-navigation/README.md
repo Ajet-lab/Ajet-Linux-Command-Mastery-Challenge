@@ -1,6 +1,6 @@
-**Day01: Where Am I? Basic Orientation**
+## Day01: Where Am I? Basic Orientation**
 
-## Phase 1 - Linux Fundamentals | Day 1 of 30
+# Phase 1 - Linux Fundamentals | Day 1 of 30
 
 ## Commands covered today
 
