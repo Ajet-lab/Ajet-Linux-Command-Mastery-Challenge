@@ -1,8 +1,8 @@
-30-Day Linux Command Mastery Challenge
+**30-Day Linux Command Mastery Challenge**
 
 Welcome to my 30-Day Linux Command Mastery Challenge — a hands-on journey to build practical Linux command-line skills through consistent daily practice. Over 30 days, I am working through **300 Linux commands**, documenting my work, organizing each day's exercises in its own folder, and publishing my progress publicly. This project proves my ability to navigate and manage a Linux environment from the command line, work with files and directories, inspect and manipulate system information, and build practical Linux administration fundamentals through disciplined, documented practice.
 
-Challenge Progress
+**Challenge Progress**
 
 | Day | Topic           | Status        | Folder                                              |
 | --: | --------------- | ------------- | --------------------------------------------------- |
@@ -44,7 +44,7 @@ Challenge Progress
 
 ---
 
-About Me
+**About Me**
 
 Ajetunmobi Mustapha (Ajet-lab)
 
@@ -54,7 +54,7 @@ LinkedIn: [Connect with me on LinkedIn](YOUR-LINKEDIN-URL)
 
 ---
 
-LinkedIn Article Series
+**LinkedIn Article Series**
 
 I am documenting this 30-day journey publicly on LinkedIn, sharing what I learn, the challenges I encounter, and the practical lessons from each stage of the challenge.
 
@@ -64,12 +64,12 @@ Full LinkedIn Article Series:** [View the complete series](YOUR-LINKEDIN-SERIES-
 
 Challenge Goal
 
-300 Commands • 30 Days • Consistent Practice
+**300 Commands • 30 Days • Consistent Practice**
 
 The goal isn't simply to memorize Linux commands. It is to develop the confidence to use the Linux command line to solve real problems and establish a strong foundation for further work in **Cloud Engineering and DevOps**.
 
 ---
 
-Follow the repository to track my progress throughout the challenge
+**Follow the repository to track my progress throughout the challenge**
 
 Day 1 complete. 29 more to go.
