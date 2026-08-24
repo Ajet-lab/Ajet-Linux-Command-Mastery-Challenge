@@ -50,7 +50,7 @@ Ajetunmobi Mustapha (Ajet-lab)
 
 I am a Tech Enthusiast, building practical skills across **Linux, Cloud Engineering, DevOps, and Software Engineering**. Through this challenge, I am developing the ability to work confidently from the Linux command line, manage files and directories, understand system operations, and apply Linux skills in practical technical environments.
 
-LinkedIn: [Connect with me on LinkedIn](YOUR-LINKEDIN-URL)
+LinkedIn: [Connect with me on LinkedIn](linkedin.com/in/ajetunmobi-mustapha-85700b309)
 
 ---
 
@@ -62,7 +62,7 @@ Full LinkedIn Article Series:** [View the complete series](YOUR-LINKEDIN-SERIES-
 
 ---
 
-Challenge Goal
+## Challenge Goal
 
 **300 Commands • 30 Days • Consistent Practice**
 
