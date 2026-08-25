@@ -1,0 +1,1 @@
+Create a nested folder structure practice/2026/august in one command, create three empty files inside it, copy the folder to a backup location, rename one file, then safely delete only the empty directories left behind.
