@@ -1,0 +1,2 @@
+Pick any log file on the system. View it fully with cat, page through it with less, show the first and 
+last 15 lines, count its lines, identify its file type, and inspect its full metadata with stat. 
