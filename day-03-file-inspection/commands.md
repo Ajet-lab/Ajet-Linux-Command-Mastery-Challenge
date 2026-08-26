@@ -24,4 +24,3 @@
 1. `nano file_name` - This opens a page to write on the file and it works on new and editable existing file
 
 2. `sudo`  - for accessing files that requires root permission
-3. 
