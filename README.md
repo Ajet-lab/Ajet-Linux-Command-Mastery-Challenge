@@ -6,17 +6,17 @@ Welcome to my 30-Day Linux Command Mastery Challenge — a hands-on journey to b
 
 | Day | Topic           | Status        | Folder                                              |
 | --: | --------------- | ------------- | --------------------------------------------------- |
-|  01 | File Navigation | ✅ Complete    | [day-01-file-navigation](./day-01-file-navigation/) |
-|  02 | File Operation  | ✅ Not Started | [day-02](./day-02/)                                 |
-|  03 | File Inspection | ✅ Not Started | [day-03](./day-03/)                                 |
-|  04 |Filesystem Search| ✅ Not Started | [day-04](./day-04/)                                 |
-|  05 | Link Checkpoint              | ✅ Not Started | [day-05](./day-05/)                                 |
-|  06 | Permissions              | ✅ Not Started | [day-06](./day-06/)                                 |
-|  07 | Ownership               | ✅ Not Started | [day-07](./day-07/)                                 |
-|  08 | Privilege Escalation              | ✅ Not Started | [day-08](./day-08/)                                 |
-|  09 | Integrity Firewall               | ✅ Not Started | [day-09](./day-09/)                                 |
-|  10 |Security Audit              | ✅ Not Started | [day-10](./day-10/)                                 |
-|  11 | User Management               | ✅ Not Started | [day-11](./day-11/)                                 |
+|  01 | File Navigation | ✅ Completed    | [day-01-file-navigation](./day-01-file-navigation/) |
+|  02 | File Operation  | ✅ Completed | [day-02](./day-02-file-operation/)       |
+|  03 | File Inspection | ✅ Completed | [day-03](./day-03-file-inspection/)                                 |
+|  04 |Filesystem Search| ✅ Completed | [day-04](./day-04-filesystem-search/)                                 |
+|  05 | Link Checkpoint | ✅ Completed | [day-05](./day-05-links-checkpoint/)                                 |
+|  06 | Permissions     | ✅ Completed | [day-06](./day-06-permissions/)                                 |
+|  07 | Ownership       | ✅ Completed | [day-07](./day-07-ownership/)                                 |
+|  08 | Privilege Escalation| ✅ Completed | [day-08](./day-08-privilege-escalation/)                                 |
+|  09 | Integrity Firewall| ✅ Completed | [day-09](./day-09-integrity-firewall/)                                 |
+|  10 |Security Audit Checkpoint| ✅ Completed | [day-10](./day-10-security-audit-checkpoint/) |
+|  11 | User Management | ✅ Completed | [day-11](./day-11-user-management/)                   |
 |  12 | —               | ⬜ Not Started | [day-12](./day-12/)                                 |
 |  13 | —               | ⬜ Not Started | [day-13](./day-13/)                                 |
 |  14 | —               | ⬜ Not Started | [day-14](./day-14/)                                 |
