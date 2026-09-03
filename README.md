@@ -7,16 +7,16 @@ Welcome to my 30-Day Linux Command Mastery Challenge — a hands-on journey to b
 | Day | Topic           | Status        | Folder                                              |
 | --: | --------------- | ------------- | --------------------------------------------------- |
 |  01 | File Navigation | ✅ Complete    | [day-01-file-navigation](./day-01-file-navigation/) |
-|  02 | —               | ⬜ Not Started | [day-02](./day-02/)                                 |
-|  03 | —               | ⬜ Not Started | [day-03](./day-03/)                                 |
-|  04 | —               | ⬜ Not Started | [day-04](./day-04/)                                 |
-|  05 | —               | ⬜ Not Started | [day-05](./day-05/)                                 |
-|  06 | —               | ⬜ Not Started | [day-06](./day-06/)                                 |
-|  07 | —               | ⬜ Not Started | [day-07](./day-07/)                                 |
-|  08 | —               | ⬜ Not Started | [day-08](./day-08/)                                 |
-|  09 | —               | ⬜ Not Started | [day-09](./day-09/)                                 |
-|  10 | —               | ⬜ Not Started | [day-10](./day-10/)                                 |
-|  11 | —               | ⬜ Not Started | [day-11](./day-11/)                                 |
+|  02 | File Operation  | ✅ Not Started | [day-02](./day-02/)                                 |
+|  03 | File Inspection | ✅ Not Started | [day-03](./day-03/)                                 |
+|  04 |Filesystem Search| ✅ Not Started | [day-04](./day-04/)                                 |
+|  05 | Link Checkpoint              | ✅ Not Started | [day-05](./day-05/)                                 |
+|  06 | Permissions              | ✅ Not Started | [day-06](./day-06/)                                 |
+|  07 | Ownership               | ✅ Not Started | [day-07](./day-07/)                                 |
+|  08 | Privilege Escalation              | ✅ Not Started | [day-08](./day-08/)                                 |
+|  09 | Integrity Firewall               | ✅ Not Started | [day-09](./day-09/)                                 |
+|  10 |Security Audit              | ✅ Not Started | [day-10](./day-10/)                                 |
+|  11 | User Management               | ✅ Not Started | [day-11](./day-11/)                                 |
 |  12 | —               | ⬜ Not Started | [day-12](./day-12/)                                 |
 |  13 | —               | ⬜ Not Started | [day-13](./day-13/)                                 |
 |  14 | —               | ⬜ Not Started | [day-14](./day-14/)                                 |
