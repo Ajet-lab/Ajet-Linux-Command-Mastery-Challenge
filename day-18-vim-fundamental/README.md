@@ -12,7 +12,7 @@ Today I practiced the basic Vim workflow: opening a file, entering insert mode, 
 
 ## What surprised me
 
-What surprised me was `vim` works differently like another text editor in linux with it's own command but then I found it easier to navigate around, I learnt another way of creating,editing,saving and exiting new file or already existing file.
+What surprised me was that `vim` works differently like another text editor in Linux with its own command, but then I found it easier to navigate around, I learnt another way of creating,editing,saving and exiting new file or already existing file.
 
 ## Evidence
 
