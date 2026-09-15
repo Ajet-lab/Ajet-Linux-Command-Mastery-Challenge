@@ -12,7 +12,7 @@ Today I practiced using `systemctl` to start, stop, restart, reload, enable, and
 
 ## What surprised me
 
-What surprised me was that starting a service `systemctl start` and enabling a service systemctl enable` are not the same thing. A service can be running now without being configured to start automatically after a reboot.
+What surprised me was that starting a service `systemctl start` and enabling a service `systemctl enable` are not the same thing. A service can be running now without being configured to start automatically after a reboot.
 ## Evidence
 
 See the `evidence/` folder for today's practice evidence.
