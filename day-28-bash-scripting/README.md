@@ -14,8 +14,6 @@ I also practiced making a script executable and running it directly from the ter
 
 ## What surprised me
 
-What surprised me was how Bash can be used to automate tasks by combining commands with variables, conditions, and loops. Instead of running every command manually, a script can perform multiple operations based on different conditions and inputs.
-
 What suprissed me was how a script to perform multiple task, how significant every space between commands matters, I discovered that most of the spaces are not just there for the commands to be well readable alone, but if they're omitted you'll get error.  
 
 ## Evidence
