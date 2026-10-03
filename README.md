@@ -17,25 +17,25 @@ Welcome to my 30-Day Linux Command Mastery Challenge — a hands-on journey to b
 |  09 | Integrity Firewall| ✅ Completed | [day-09-integrity-firewall](./day-09-integrity-firewall/) |
 |  10 |Security Audit Checkpoint| ✅ Completed | [day-10-security-audit-checkpoint](./day-10-security-audit-checkpoint/) |
 |  11 | User Management | ✅ Completed | [Day-11-user-management](./Day-11-user-management/)   |
-|  12 | —               | ⬜ Not Started | [day-12](./day-12/)                                 |
-|  13 | —               | ⬜ Not Started | [day-13](./day-13/)                                 |
-|  14 | —               | ⬜ Not Started | [day-14](./day-14/)                                 |
-|  15 | —               | ⬜ Not Started | [day-15](./day-15/)                                 |
-|  16 | —               | ⬜ Not Started | [day-16](./day-16/)                                 |
-|  17 | —               | ⬜ Not Started | [day-17](./day-17/)                                 |
-|  18 | —               | ⬜ Not Started | [day-18](./day-18/)                                 |
-|  19 | —               | ⬜ Not Started | [day-19](./day-19/)                                 |
-|  20 | —               | ⬜ Not Started | [day-20](./day-20/)                                 |
-|  21 | —               | ⬜ Not Started | [day-21](./day-21/)                                 |
-|  22 | —               | ⬜ Not Started | [day-22](./day-22/)                                 |
-|  23 | —               | ⬜ Not Started | [day-23](./day-23/)                                 |
-|  24 | —               | ⬜ Not Started | [day-24](./day-24/)                                 |
-|  25 | —               | ⬜ Not Started | [day-25](./day-25/)                                 |
-|  26 | —               | ⬜ Not Started | [day-26](./day-26/)                                 |
-|  27 | —               | ⬜ Not Started | [day-27](./day-27/)                                 |
-|  28 | —               | ⬜ Not Started | [day-28](./day-28/)                                 |
-|  29 | —               | ⬜ Not Started | [day-29](./day-29/)                                 |
-|  30 | —               | ⬜ Not Started | [day-30](./day-30/)                                 |
+|  12 | Groups| ✅ Completed | [day-12](./Day-12-groups/) |
+|  13 | Apt Package Management | ✅ Completed | [day-13](./day-13-apt-package-management/) |
+|  14 | DNF Yum| ✅ Completed | [day-14](./day-14-dnf-yum/) |
+|  15 | Provisioning Checkpoint| ✅ Completed | [day-15](./day-15-provisioning-checkpoint/) |
+|  16 | Environment Variables| ✅ Completed | [day-16](./day-16-environment-variables/) |
+|  17 | Shell Configuration| ✅ Completed | [day-17](./day-17-shell-configuration/) |
+|  18 | Vim Fundamental| ✅ Completed | [day-18](./day-18-vim-fundamental/)  |
+|  19 | Vim Search Replace| ✅ Completed | [day-19](./day-19-vim-search-replace/) |
+|  20 | Text Provisioning Checkpoint| ✅ Completed | [day-20](./day-20-text-processing-checkpoint/) |
+|  21 | Viewing Processes| ✅ Completed | [day-21](./day-21-viewing-processes/) |
+|  22 | Process Signals| ✅ Completed | [day-22](./day-22-process-signals/) |
+|  23 | Systemctl Basics| ✅ Completed | [day-23](./day-23-systemctl-basics/) |
+|  24 | Service logs| ✅ Completed | [day-24](./day-24-service-logs/) |
+|  25 | Operational Snapshot Checkpoint | ✅ Completed | [day-25](./day-25-operational-snapshot-checkpoint/) |
+|  26 | Networking Basics| ✅ Completed | [day-26](./day-26-networking-basics/) |
+|  27 | SSH File Transfer | ✅ Completed | [day-27](./day-27-ssh-file-transfer/) |
+|  28 | Bash Scripting | ✅ Completed | [day-28](./day-28-bash-scripting/) |
+|  29 | Functions Automation| ✅ Completed | [day-29](./day-29-funtions-automation/) |
+|  30 | Capstone Project| ✅ Completed | [day-30](./day-30-capstone/) |
 
 ### Legend
 
